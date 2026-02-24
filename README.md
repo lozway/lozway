@@ -23,6 +23,7 @@ I'm a Systems Engineering student with a strong interest in **Artificial Intelli
 I'm currently exploring opportunities to apply my skills in **AI**, **BI**, and **Backend Development** to solve real-world problems. I'm particularly interested in roles related to data analysis, machine learning engineering, and software development.  
 
 I lost my last account :(
+My last account [Github](https://github.com/juancho0809)
 
 ---
 
